@@ -1,0 +1,154 @@
+﻿  BaseObject.cpp
+  BossObject.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.h(28,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.h(29,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(95,32): warning C4305: '+=': truncation from 'double' to 'float'
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(201,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(202,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(240,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(241,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(270,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(271,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.cpp(331,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BulletObject.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(199,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(200,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(203,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(204,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(206,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(207,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.cpp(242,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CommonFunc.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(102,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(103,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(133,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(134,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(135,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(136,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(117,18): warning C4101: 'menu': unreferenced local variable
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(232,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(283,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(245,18): warning C4101: 'menu': unreferenced local variable
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(401,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(402,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(403,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(439,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(440,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(442,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(443,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(445,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(446,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\CommonFunc.cpp(420,18): warning C4101: 'menu': unreferenced local variable
+  ExplosionObject.cpp
+  game_map.cpp
+  Geometric.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\Geometric.h(23,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\Geometric.h(40,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  ImpTimer.cpp
+  main.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\Geometric.h(23,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\Geometric.h(40,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.h(16,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.h(12): message : see previous definition of 'PLAYER_SPEED'
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.h(28,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BossObject.h(29,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(145,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(148,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(151,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(200,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(203,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(204,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(224,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(227,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(228,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(247,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(277,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(286,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(406,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(583,34): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(641,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(642,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(698,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(699,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(756,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(757,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(802,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(803,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MainObject.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(65,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(66,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(180,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(181,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(181,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(186,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(187,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(187,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(192,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(193,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(193,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(198,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(199,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(199,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(204,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(204,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(235,16): warning C4305: '+=': truncation from 'double' to 'float'
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(290,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(291,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(293,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(294,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(333,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(368,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(377,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(378,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(380,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(381,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(414,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(460,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(479,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(489,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(496,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\MainObject.cpp(570,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PlayerPower.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\PlayerPower.cpp(72,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  ResultObject.cpp
+  TextObject.cpp
+  ThreatsObject.cpp
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\BulletObject.h(54,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(86,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(87,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(104,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(148,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(149,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(151,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(152,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(171,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(185,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(194,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(195,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(197,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(198,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(207,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(220,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(237,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(345,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(348,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(372,46): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(381,62): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(398,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(401,60): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(404,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(415,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(431,42): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\ThreatsObject.cpp(434,42): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Generating Code...
+D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\Brave Soldier\main.cpp(334): warning C4715: 'comeback': not all control paths return a value
+  Brave Soldier.vcxproj -> D:\OneDrive - HUCE\Nuce\Huce_nam3\Project Object Oriented Programming\Brave Soldier\x64\Debug\Brave Soldier.exe

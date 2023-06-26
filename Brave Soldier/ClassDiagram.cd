@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="BaseObject" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACAAAAIAAAAAAgQAAAAAAAAAAAABEAAgAAAAI=</HashCode>
+      <FileName>BaseObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossObject" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQRCAIYIgFgIEABBYAAAAAAAMCElAAABQAAACwQEEgA=</HashCode>
+      <FileName>BossObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletObject" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ASQCAA4JgJAAAAgYIAAAAiAAAAEAAAABhAAAAAAAEAE=</HashCode>
+      <FileName>BulletObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplosionObject" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEAAAAAIAAAAAAAQAAAEAAIAACAAA4BAAAA=</HashCode>
+      <FileName>ExplosionObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMap" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAAAAAAkAAAAQAAAAAAQAAAABAAA=</HashCode>
+      <FileName>game_map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometric" Collapsed="true">
+    <Position X="11.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Geometric.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImpTimer" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAQQAAAIAgAACAAEAAAAAgAAAAAARAAIAAIAA=</HashCode>
+      <FileName>ImpTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainObject" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQRCAQYIIOoqEECBYgAAAwAgIgoEAAqEQRECAwBhEAA=</HashCode>
+      <FileName>MainObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMoney" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAIAAAAAAAAAAAAABAAAAAAEAAAEAAACAAAAAAA=</HashCode>
+      <FileName>PlayerPower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPower" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABADAAQAAgAAAAAgAAAEACAAQAACAAAAAAA=</HashCode>
+      <FileName>PlayerPower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResultObject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAEAAAEAAAAAAAAAQAAAEAAIAAAAAA4BAAAA=</HashCode>
+      <FileName>ResultObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileMap" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>game_map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextObject" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAACAAAAAAAoSIAAQABAAAAAEAAAAUoIAEAAAAI=</HashCode>
+      <FileName>TextObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreatsObject" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8URCAIYIgFwIEABBYACIAgAgMgIlAAAJQCAIAwBAEgA=</HashCode>
+      <FileName>ThreatsObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Map" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIAAABAAAAAAAAAAAAAAAABgAAAABAAAA=</HashCode>
+      <FileName>CommonFunc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Input" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAAAAQAAAAAEAAAAAAAgABgAA=</HashCode>
+      <FileName>CommonFunc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ColorData" Collapsed="true">
+    <Position X="11.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAABAAABAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Geometric.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GeometricFormat" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAhQQAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometric.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
